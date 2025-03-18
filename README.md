@@ -17,3 +17,19 @@ Le projet implémente une simulation numérique des ondes de Rossby en résolvan
 - Simulation et analyse de l'évolution temporelle de la vorticité relative
 
 - Tests de sensibilité à divers paramètres (longueur d'onde, latitude, coefficient beta)
+
+## Utilisation
+
+Exécutez le script principal pour lancer la simulation :
+
+python main.py
+
+## Résultats et visualisation
+
+Les figures produites illustrent l'évolution temporelle des champs de vorticité relative et de vitesse, mettant en évidence les propriétés des ondes de Rossby.
+
+## Bibliographie
+
+- Les ondes de Rossby : http://euromet.meteo.fr/euromet/french/nwp/n2d00/n2d00009.htm
+
+- Marshall, J., Plumb, R. A. (2016). Atmosphere, ocean and climate dynamics : an introductory text. Academic Press.
