@@ -1,3 +1,16 @@
+"""
+@auteur : Alexandre Nuyt
+
+Simulation de la dynamique des fluides géophysiques :
+
+Ce script résout numériquement l'évolution d'un champ de vitesse et de vorticité 
+sur une grille 2D en utilisant une méthode de différences finies. Il intègre 
+les équations de la dynamique des fluides en rotation avec l'effet de la force 
+de Coriolis, basé sur la latitude d'entrée. Les résultats incluent la visualisation 
+des champs scalaires et vectoriels.
+
+"""
+
 import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib import cm
